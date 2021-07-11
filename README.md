@@ -7,8 +7,12 @@ I'm the co-founder and CTO of [Spire Technology](https://github.com/spiretechnol
 ## Projects
 
 * ### :movie_camera: Live streaming platform
-  - Self-contained live streaming platform, written from scratch entirely in Go.
+  - Self-contained live streaming platform, written from scratch entirely in Go
   - HLS playback, RTMP upload endpoint, and playback frontend
+  - Censorship-resistant. Anyone can spin it up on any server with Docker
+* ### :microphone: [HYPED](https://bitclout.com/u/hyped)
+  - Live event ticketing platform using the BitClout blockchain
+  - Interactive live audience with avatars and digital applause
 * ### :video_game: [CustomRealms](https://github.com/customrealms)
   - Platform for building multiplayer Minecraft servers with JavaScript
   - Minecraft server hosting platform with online coding IDE
