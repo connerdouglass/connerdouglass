@@ -6,7 +6,7 @@ I'm the co-founder and CTO of [Spire Technology](https://github.com/spiretechnol
 
 ## Projects
 
-* ### :movie_camera: Live streaming platform
+* ### :movie_camera: [Live streaming platform](https://github.com/connerdouglass/livestream-rtmp)
   - Self-contained live streaming platform, written from scratch entirely in Go
   - HLS playback, RTMP upload endpoint, and playback frontend
   - Censorship-resistant. Anyone can spin it up on any server with Docker
